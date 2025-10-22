@@ -9,8 +9,8 @@ A simple **Number Guessing Game** built with **Python** and **Streamlit**, featu
 ## Installation
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/FatemehCharoosaei/NumberGuessGame_Streamlit.git
-cd NumberGuessGame_Streamlit
+git clone https://github.com/FatemehCharoosaei/GuessNumGame_Streamlit.git
+cd GuessNumGame_Streamlit
 
 2. **Install dependencies**:
 pip install -r requirements.txt
